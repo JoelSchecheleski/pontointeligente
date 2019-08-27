@@ -1,4 +1,4 @@
-package com.com.uppertools.api;
+package com.uppertools.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,4 +10,5 @@ public class PontoInteligenteApplication {
 		SpringApplication.run(PontoInteligenteApplication.class, args);
 	}
 
+	
 }
